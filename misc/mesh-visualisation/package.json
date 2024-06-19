@@ -5,8 +5,8 @@
   "author": "Jonathan Dahan <jonathan@jonathan.is>",
   "dependencies": {
     "coffee-script-redux": "^2.0.0-beta8",
-    "restify": "^2.8.1",
-    "socket.io": "^1.0.6"
+    "restify": "^11.1.0",
+    "socket.io": "^4.7.5"
   },
   "repository": {
     "type": "git",
